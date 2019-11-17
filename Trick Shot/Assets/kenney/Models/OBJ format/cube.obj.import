@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cube.obj-acebcf951f51b533d26971448c130dcc.mesh"
+
+[deps]
+
+files=[ "res://.import/cube.obj-acebcf951f51b533d26971448c130dcc.mesh" ]
+
+source_file="res://Assets/kenney/Models/OBJ format/cube.obj"
+dest_files=[ "res://.import/cube.obj-acebcf951f51b533d26971448c130dcc.mesh", "res://.import/cube.obj-acebcf951f51b533d26971448c130dcc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

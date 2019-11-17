@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bridgeHalf.obj-1f3c9ad4ea9b24982660e88ded6181b0.mesh"
+
+[deps]
+
+files=[ "res://.import/bridgeHalf.obj-1f3c9ad4ea9b24982660e88ded6181b0.mesh" ]
+
+source_file="res://Assets/kenney/Models/OBJ format/bridgeHalf.obj"
+dest_files=[ "res://.import/bridgeHalf.obj-1f3c9ad4ea9b24982660e88ded6181b0.mesh", "res://.import/bridgeHalf.obj-1f3c9ad4ea9b24982660e88ded6181b0.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

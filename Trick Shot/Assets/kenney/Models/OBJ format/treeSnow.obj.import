@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/treeSnow.obj-a136afe27e224ee719b76c5a89c1a600.mesh"
+
+[deps]
+
+files=[ "res://.import/treeSnow.obj-a136afe27e224ee719b76c5a89c1a600.mesh" ]
+
+source_file="res://Assets/kenney/Models/OBJ format/treeSnow.obj"
+dest_files=[ "res://.import/treeSnow.obj-a136afe27e224ee719b76c5a89c1a600.mesh", "res://.import/treeSnow.obj-a136afe27e224ee719b76c5a89c1a600.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

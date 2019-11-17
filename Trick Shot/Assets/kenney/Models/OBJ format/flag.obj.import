@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/flag.obj-32457ee606afcc7b471447c68694573e.mesh"
+
+[deps]
+
+files=[ "res://.import/flag.obj-32457ee606afcc7b471447c68694573e.mesh" ]
+
+source_file="res://Assets/kenney/Models/OBJ format/flag.obj"
+dest_files=[ "res://.import/flag.obj-32457ee606afcc7b471447c68694573e.mesh", "res://.import/flag.obj-32457ee606afcc7b471447c68694573e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

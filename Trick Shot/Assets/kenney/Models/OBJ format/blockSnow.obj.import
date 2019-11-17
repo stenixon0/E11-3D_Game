@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/blockSnow.obj-26c29ca72489b2bbc5ec76cb94b72b57.mesh"
+
+[deps]
+
+files=[ "res://.import/blockSnow.obj-26c29ca72489b2bbc5ec76cb94b72b57.mesh" ]
+
+source_file="res://Assets/kenney/Models/OBJ format/blockSnow.obj"
+dest_files=[ "res://.import/blockSnow.obj-26c29ca72489b2bbc5ec76cb94b72b57.mesh", "res://.import/blockSnow.obj-26c29ca72489b2bbc5ec76cb94b72b57.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

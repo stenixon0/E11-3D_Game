@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/button.obj-be2b343ad059676841ddffab0ec9ac90.mesh"
+
+[deps]
+
+files=[ "res://.import/button.obj-be2b343ad059676841ddffab0ec9ac90.mesh" ]
+
+source_file="res://Assets/kenney/Models/OBJ format/button.obj"
+dest_files=[ "res://.import/button.obj-be2b343ad059676841ddffab0ec9ac90.mesh", "res://.import/button.obj-be2b343ad059676841ddffab0ec9ac90.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

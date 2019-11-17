@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/blockCornerSmall.obj-207d977999fc3537b4d3d9e70a2bb805.mesh"
+
+[deps]
+
+files=[ "res://.import/blockCornerSmall.obj-207d977999fc3537b4d3d9e70a2bb805.mesh" ]
+
+source_file="res://Assets/kenney/Models/OBJ format/blockCornerSmall.obj"
+dest_files=[ "res://.import/blockCornerSmall.obj-207d977999fc3537b4d3d9e70a2bb805.mesh", "res://.import/blockCornerSmall.obj-207d977999fc3537b4d3d9e70a2bb805.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true
