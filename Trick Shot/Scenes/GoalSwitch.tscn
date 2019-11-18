@@ -14,4 +14,5 @@ transform = Transform( 1, 0, 0, 0, 0.1, 0, 0, 0, 1, 0, 0.824473, 0 )
 shape = SubResource( 1 )
 
 [node name="Spatial" parent="." instance=ExtResource( 2 )]
+[connection signal="body_entered" from="." to="." method="_on_GoalSwitch_body_entered"]
 [connection signal="tree_entered" from="CollisionShape" to="." method="_on_CollisionShape_tree_entered"]

@@ -2,8 +2,8 @@ extends KinematicBody
 
 
 var gravity = Vector3.DOWN * 9
-var acceleration = 0.1
-var friction = 0.01
+var acceleration = 0.2
+var friction = 0.05
 var jump_speed = 6
 var jump = false
 var can_move = true
