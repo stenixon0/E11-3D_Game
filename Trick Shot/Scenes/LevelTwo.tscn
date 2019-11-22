@@ -48,7 +48,7 @@ depth = 6.0
 
 [node name="GoalSwitch" parent="." instance=ExtResource( 5 )]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.877816, -16.9853, -58.5636 )
-next_level = "res://Scenes/Win.tscn"
+next_level = "res://Scenes/LevelThree.tscn"
 
 [node name="CSGBox4" type="CSGBox" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.483136, -13.7153, -61.9468 )

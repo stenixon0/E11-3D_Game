@@ -19,7 +19,7 @@ transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 21.5, 0 )
 
 [node name="GoalSwitch" parent="." instance=ExtResource( 4 )]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.394468, 8.42467, -23.2569 )
-next_level = "res://Scenes/Win.tscn"
+next_level = "res://Scenes/LevelTwo.tscn"
 
 [node name="CSGPolygon" parent="." instance=ExtResource( 5 )]
 
