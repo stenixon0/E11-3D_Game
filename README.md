@@ -7,6 +7,8 @@ This game is a 3D platformer where the player is a ball.
 
 I changed the player input to affect acceleration, rather than velocity.
 
+# WASD accelerates in the cardinal direction relative to the direction the player is facing.
+
 When the player is not inputting a direction, the "friction" will bring the ball to a halt.
 
 Note that input can still occur when the player ball is in the air
